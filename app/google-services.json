@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "158393359337",
+    "firebase_url": "https://projectandroidmas-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projectandroidmas",
+    "storage_bucket": "projectandroidmas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158393359337:android:a08fec91df30bdc6c98978",
+        "android_client_info": {
+          "package_name": "com.example.projectandroidmas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMgCR_bOKh95BGK3oDgP7NkPPEwj759Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
